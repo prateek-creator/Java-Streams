@@ -1,0 +1,14 @@
+
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(²Şò8Ò²ÓµÒ2
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(½¢æ×ıÿÿÿÿ8Ò²ÓµÒ2
+m
+java:S3655
+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦›ë8Ò²ÓµÒ2
+Z
+java:S1612
+"=Replace this lambda with method reference 'Integer::compare'.(¦›ë8Ó²ÓµÒ2
+G	java:S106"+Replace this use of System.out by a logger.(¾¨“”8Ó²ÓµÒ2
+L	java:S106"+Replace this use of System.out by a logger.(£ÙÃñøÿÿÿÿ8Ó²ÓµÒ2
+G	java:S106"+Replace this use of System.out by a logger.(Å¶áç8Ô²ÓµÒ2

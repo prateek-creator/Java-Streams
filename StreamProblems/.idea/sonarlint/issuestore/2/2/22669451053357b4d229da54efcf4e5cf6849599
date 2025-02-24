@@ -1,14 +1,0 @@
-
-“
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(²Şò8÷úšÒ2J$d0b18924-942e-4df4-b5ab-53fb8e841d6a
-“
-java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¦›ë8÷úšÒ2J$97f4cef4-6ecf-4aa0-ae53-82d7df105da6
-½
-java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(•’“Š8úúšÒ2J$9dd83227-5b74-40c7-8f65-383aff62dd9b
-m	java:S106"+Replace this use of System.out by a logger.(Êß¥ñ8úúšÒ2J$71095013-761d-4b2d-bd3c-cafebf33dc70
-€
-java:S1612"=Replace this lambda with method reference 'Integer::compare'.(¦›ë8ûúšÒ2J$4f3d77cd-47f8-4d5c-8f56-0c6ed2b3a452
-m	java:S106"+Replace this use of System.out by a logger.(¾¨“”8ûúšÒ2J$87e8e16d-855d-418f-ba9e-03dc8fe2f39a
-r	java:S106"+Replace this use of System.out by a logger.(£ÙÃñøÿÿÿÿ8ûúšÒ2J$d0674790-203b-48f3-ad7f-004cbe1a3eff
-z
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8üúšÒ2J$8550f6e9-edb2-4e58-8dc7-ae79f33f0b20
